@@ -1,4 +1,5 @@
 Guru99 Banking Project
+
 Overview
 Welcome to the Guru99 Banking Project repository. This project is focused on manual testing for the Guru99 Banking application. It includes a comprehensive test case suite, reviewed Software Requirements Specification (SRS), and a detailed bug tracker.
 
